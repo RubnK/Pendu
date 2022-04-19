@@ -1,3 +1,4 @@
+## Copyright RubnK for RCorp™
 from tkinter import *
 from random import randrange
 
